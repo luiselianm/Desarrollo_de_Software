@@ -15,5 +15,4 @@ documents.setElement(docNoCumple);
 
 console.log(user.findByCondition( 
     (fileName: string) => {
-    return (fileName.length >= 1) ? true : false} 
-))
+    return (fileName.length > 1) ? true : false} ))
