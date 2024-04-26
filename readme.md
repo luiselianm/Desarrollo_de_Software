@@ -10,3 +10,4 @@ npm i typescript --save-dev
 ```
 npm i -g ts-node
 ```
+3. Para correr algún archivo: ```ts-node "ruta del archivo"```
