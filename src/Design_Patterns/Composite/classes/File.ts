@@ -1,4 +1,4 @@
-import { INodo } from "./Nodo";
+import { INodo } from "../interfaces/Nodo";
 
 export class File implements INodo{
 
